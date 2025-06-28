@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProDreVil
+- 👋 Hi, I’m @ProDreVil (Lee James V. Benigno)
 - 👀 I’m interested in chaotic video games
 - 🌱 I’m currently learning to avoid copyright infringement
 - 💞️ I’m looking to collaborate on world peace
