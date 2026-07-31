@@ -97,7 +97,7 @@ A roguelike ball survival game where you collect foods, choose enemies, and buy 
 
 ## Museum
 
-<i>I have nothing yet to add here hehe</i>
+<i>I have nothing to add here yet hehe</i>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ProDreVil&style=for-the-badge&color=blueviolet)
 
