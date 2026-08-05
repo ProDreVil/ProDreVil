@@ -55,7 +55,7 @@ A Computer Science student passionate on building projects and video games.
 
 An automated Python bot that solves Minesweeper using logical deduction and pattern recognition.
 
-### 🎤 Veri Oke
+### 🎤 Verioke
 
 A fuzzy logic based karaoke scoring system that compares sung notes and lyrics against the original song.
 
