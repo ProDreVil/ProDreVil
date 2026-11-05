@@ -61,7 +61,7 @@ A fuzzy logic based karaoke scoring system that compares sung notes and lyrics a
 
 ### 🎲 Super Snaders (Soon)
 
-A new flavor for the classic Snake and Ladders but with roguelite elements and power-ups.
+A new flavor for the classic Snake and Ladders but with roguelite elements and power-ups!
 
 ### ⚪ Scratch A Ton (Recreation Soon)
 
