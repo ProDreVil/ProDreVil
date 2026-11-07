@@ -12,7 +12,7 @@ A Computer Science student passionate on building tech projects and video games.
 
 * 🎓 Computer Science Student
 * 💻 Interested in Software Development & AI
-* ➕ C++ is my favorite language but I'm working more on Python
+* ➕ C++ is my favorite language but I'm working more on Python right now
 * ⚛️ Currently learning React and modern web development
 * 🎮 Enjoys building game-related projects
 * 🔥 Interested in chaotic video games
