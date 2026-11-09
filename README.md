@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi, I'm Lee
 
-A Computer Science student passionate on building tech projects and video games.
+A Computer Science student passionate on building tech projects, conceptualizing, and video games.
 
 ---
 
