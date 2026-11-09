@@ -18,7 +18,7 @@ A Computer Science student passionate on building tech projects and video games.
 * 🔥 Interested in chaotic video games
 * 🌱 Finding ways to avoid copyright
 * 💞️ Looking to collaborate on world peace
-* 📫 DO NOT TOUCH THE SKY
+* 📫 DO NOT TOUCH THE SKY!
 
 ---
 
