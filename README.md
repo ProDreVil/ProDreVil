@@ -59,7 +59,7 @@ An automated Python bot that solves Minesweeper using logical deduction and patt
 
 A fuzzy logic based karaoke scoring system that compares sung notes and lyrics against the original song.
 
-### 🎲 Super Snaders (Soon)
+### 🎲 Super Snaders
 
 A new flavor for the classic Snake and Ladders but with roguelite elements and power-ups!
 
